@@ -136,6 +136,9 @@ Thumbs.db
 
 # Runtime logs
 *.log
+model/artifacts/
+submission/*.tmp
+submission/*_DRAFT.pdf
 
 # Data files (optional - uncomment if you want to exclude data)
 # *.csv
